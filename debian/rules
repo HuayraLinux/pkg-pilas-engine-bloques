@@ -25,6 +25,6 @@ override_dh_shlibdeps:
 
 override_dh_auto_configure:
 	make iniciar
-	make a_produccion
+	make to_production
 	make compilar
 	dh_auto_configure
