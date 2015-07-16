@@ -1,3 +1,9 @@
+pilas-engine-bloques (0.2.0-1) unstable; urgency=low
+
+  * Actualizando ejercicios.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 16 Jul 2015 19:24:22 +0200
+
 pilas-engine-bloques (0.1.11) unstable; urgency=low
 
   * Agregando bloques al ejercicio del obrero copado
