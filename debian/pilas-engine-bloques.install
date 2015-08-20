@@ -1,4 +1,5 @@
 dist/* usr/share/pilas-engine-bloques/dist
 bin/pilas-engine-bloques usr/bin/
 debian/pilas-engine-bloques.desktop /usr/share/applications
-debian/pilas-engine-bloques.svg /usr/share/icons/hicolor/scalable/apps
+debian/pilas-engine-bloques.png /usr/share/pixmaps
+debian/pilas-engine-bloques.png /usr/share/icons/hicolor/192x192/apps/

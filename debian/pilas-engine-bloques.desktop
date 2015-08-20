@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=pilas-engine-bloques
+Name=Pilas Engine (bloques)
 Comment=Comment
 Exec=/usr/bin/pilas-engine-bloques
 Terminal=false
