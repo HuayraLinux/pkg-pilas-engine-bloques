@@ -24,6 +24,7 @@ override_dh_shlibdeps:
 	@echo "..."
 
 override_dh_auto_configure:
+	npm install -g grunt grunt-cli
 	make full
 	make to_production
 	make compilar
