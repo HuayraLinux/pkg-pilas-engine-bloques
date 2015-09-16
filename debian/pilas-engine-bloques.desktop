@@ -6,4 +6,4 @@ Exec=/usr/bin/pilas-engine-bloques
 Terminal=false
 Type=Application
 Icon=pilas-engine-bloques
-Categories=GNOME;GTK;Huayra;
+Categories=GNOME;GTK;Huayra;Development;
