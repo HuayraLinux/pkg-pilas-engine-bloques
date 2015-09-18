@@ -1,3 +1,10 @@
+pilas-engine-bloques (0.8.7-1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Actualizando a la versión 0.8.7.
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Fri, 18 Sep 2015 12:47:53 -0300
+
 pilas-engine-bloques (0.8.6-2) unstable; urgency=low
 
   * Arreglo menor en el menu.
