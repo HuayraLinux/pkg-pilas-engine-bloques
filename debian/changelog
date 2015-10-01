@@ -1,3 +1,15 @@
+pilas-engine-bloques (0.8.7.1-2) unstables; urgency=medium
+
+  * Backport para  node-webkit 0.7.5
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 01 Oct 2015 12:55:51 -0300
+
+pilas-engine-bloques (0.8.7.1-1) unstable; urgency=medium
+
+  * fix logo y textos
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Fri, 18 Sep 2015 16:12:43 -0300
+
 pilas-engine-bloques (0.8.7-1) unstable; urgency=medium
 
   * Non-maintainer upload.

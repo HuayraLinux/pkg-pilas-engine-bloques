@@ -10,6 +10,6 @@ Vcs-Git: https://github.com/hugoruscitti/pilas-engine-bloques.git
 
 Package: pilas-engine-bloques
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, node-webkit (>= 0.11.2.4)
+Depends: ${shlibs:Depends}, ${misc:Depends}, node-webkit (>= 0.7.5.2)
 Description: Descripcion
  Descripcion larga.
