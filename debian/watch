@@ -1,2 +1,2 @@
 version=3
-https://github.com/HuayraLinux/pilas-engine-bloques/tags .*/(\d[\d\.]+)\.tar\.gz
+https://github.com/Program-AR/pilas-engine-bloques/tags .*/(\d[\d\.]+)\.tar\.gz
