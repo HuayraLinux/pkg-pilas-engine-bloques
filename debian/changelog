@@ -1,3 +1,9 @@
+pilas-engine-bloques (0.10.0-2) unstable; urgency=low
+
+  * Actualizando icono y descripción.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 11 Mar 2016 10:24:23 -0300
+
 pilas-engine-bloques (0.10.0-1) unstable; urgency=low
 
   * Actualización general.
