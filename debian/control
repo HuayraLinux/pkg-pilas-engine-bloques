@@ -11,5 +11,5 @@ Vcs-Git: https://github.com/hugoruscitti/pilas-engine-bloques.git
 Package: pilas-engine-bloques
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, node-webkit (>= 0.7.5.2)
-Description: Descripcion
- Descripcion larga.
+Description: Una herramienta para aprender a programar.
+ Se proponen desafíos con diversos niveles de dificultad para acercar a los alumnos al mundo de la programación por medio de bloques. 

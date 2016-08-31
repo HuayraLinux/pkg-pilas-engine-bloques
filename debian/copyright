@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: huayra-compartir
-Source: https://github.com/HuayraLinux/huayra-caripela
+Upstream-Name: pilas-engine-bloques
+Source: https://github.com/Program-AR/pilas-engine-bloques
 
 Files: *
 Copyright: 2014 Hugo Ruscitti <hugoruscitti@gmail.com>
