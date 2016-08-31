@@ -1,3 +1,11 @@
+pilas-engine-bloques (1.0.2-1) unstable; urgency=low
+
+  * Actualizando a electron.
+  * Actualizando a la version 1.0.2.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 31 Aug 2016 13:21:06 -0300
+
+
 pilas-engine-bloques (1.0.0-1) unstable; urgency=low
 
   * update a versión 1.0.0.
