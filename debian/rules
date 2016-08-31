@@ -16,6 +16,8 @@ export DH_VERBOSE=1
 # This has to be exported to make some magic below work.
 export DH_OPTIONS
 
+PATH := node-v4.5.0-linux-x64/bin:$(PATH)
+
 
 %:
 	dh $@ 
@@ -24,8 +26,6 @@ override_dh_shlibdeps:
 	@echo "..."
 
 override_dh_auto_configure:
-	node -v
-	npm -v
 	wget https://nodejs.org/dist/v4.5.0/node-v4.5.0-linux-x64.tar.xz
 	tar xf node-v4.5.0-linux-x64.tar.xz
 	export PATH=node-v4.5.0-linux-x64/bin:$PATH
