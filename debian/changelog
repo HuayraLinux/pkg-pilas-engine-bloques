@@ -1,3 +1,10 @@
+pilas-engine-bloques (1.0.3-1) unstable; urgency=low
+
+  * Actualizando a la versión 1.0.3.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 31 Aug 2016 22:24:49 -0300
+
+
 pilas-engine-bloques (1.0.2-6) unstable; urgency=low
 
   * Agregando bower al listado de dependencias internas.
