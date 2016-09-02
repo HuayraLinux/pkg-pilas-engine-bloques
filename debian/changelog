@@ -1,3 +1,11 @@
+pilas-engine-bloques (1.0.5-1) unstable; urgency=low
+
+  * Actualizando a la versión 1.0.5.
+  * Quitando crashReporter.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 02 Sep 2016 14:50:34 -0300
+
+
 pilas-engine-bloques (1.0.4-1) unstable; urgency=low
 
   * Actualizando a la versión 1.0.4.
