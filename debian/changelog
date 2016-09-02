@@ -1,3 +1,11 @@
+pilas-engine-bloques (1.0.4-1) unstable; urgency=low
+
+  * Actualizando a la versión 1.0.4.
+  * Adaptando el proceso de compilación para que agregue los archivos package.json y electron.js al directorio dist
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 02 Sep 2016 12:52:33 -0300
+
+
 pilas-engine-bloques (1.0.3-1) unstable; urgency=low
 
   * Actualizando a la versión 1.0.3.
