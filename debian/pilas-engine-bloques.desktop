@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=Pilas Engine (bloques)
+Name=Pilas Bloques
 Comment=Una herramienta para aprender a programar usando bloques
 Exec=/usr/bin/pilas-engine-bloques
 Terminal=false

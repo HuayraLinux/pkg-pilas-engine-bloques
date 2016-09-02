@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: pilas-engine-bloques
-Source: https://github.com/Program-AR/pilas-engine-bloques
+Source: https://github.com/Program-AR/pilas-bloques
 
 Files: *
 Copyright: 2014 Hugo Ruscitti <hugoruscitti@gmail.com>

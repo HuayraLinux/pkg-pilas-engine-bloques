@@ -33,4 +33,5 @@ override_dh_auto_configure:
 	npm install bower --save
 	make full
 	make compilar
+	make _preparar_electron
 	dh_auto_configure
