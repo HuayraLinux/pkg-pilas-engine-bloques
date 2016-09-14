@@ -1,3 +1,11 @@
+pilas-engine-bloques (1.0.6-1) unstable; urgency=low
+
+  * Actualizando a la versión 1.0.6.
+  * Quitando el menú de electron en modo desarrollo.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 14 Sep 2016 15:28:27 -0300
+
+
 pilas-engine-bloques (1.0.5-1) unstable; urgency=low
 
   * Actualizando a la versión 1.0.5.
