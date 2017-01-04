@@ -1,3 +1,12 @@
+pilas-engine-bloques (1.1.0-1) unstable; urgency=low
+
+  * Actualizando a la versión 1.1.0.
+  * Se agregó un notificador de nueva versión para descargar.
+  * Se hicieron arreglos sobre las animaciones y chequeos de actividad completada en: El gato en la calle, Tres naranjas, La gran aventura del mar encantado, Instalando Juegos, Tito (en todos sus sabores) y más.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 04 Jan 2017 15:53:36 -0300
+
+
 pilas-engine-bloques (1.0.7-1) unstable; urgency=low
 
   * Actualizando a la versión 1.0.7.
